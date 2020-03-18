@@ -41,7 +41,7 @@ const suspectsArray = [
         occupation: "Socialité",
         age: 36,
         description: "She is from a wealthy family and uses her status and money to earn popularity",
-        image: `<img src="https://metrouk2.files.wordpress.com/2016/07/mrs-peacock.jpg">`,
+        image: `<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/04/08/unspecified.jpg">`,
         color: "blue"
     },
     {
